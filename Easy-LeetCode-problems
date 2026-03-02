@@ -1,0 +1,45 @@
+Intuition
+The problem asks for the square root of 
+, rounded down to the nearest integer. Since the square root of 
+ will always lie between 
+ and 
+, we are essentially searching for a value in a sorted range. Instead of checking every number one by one, we can use a more efficient search method to find the "tipping point" where 
+.
+Approach
+I implemented the Binary Search algorithm to find the integer square root:
+Search Space: Set the search boundaries as left = 0 and right = x.
+Iteration: While left <= right, calculate the middle element mid.
+Condition Check: Calculate check = mid * mid.
+If check > x, the root must be smaller, so move the right pointer to mid - 1.
+If check < x, the root could be larger, so move the left pointer to mid + 1.
+If check == x, we found the exact root, so return mid.
+Result: If the loop finishes without an exact match, the right pointer will naturally point to the floor value (the largest integer whose square is less than 
+).
+Complexity
+Time complexity:
+
+ — The search range is halved in every step, making it extremely efficient for large numbers.
+Space complexity:
+
+ — No extra data structures are used; only a few integer variables are stored.
+
+```
+class Solution:
+    def mySqrt(self, x: int) -> int:
+        left = 0
+        right = x
+        while left <= right:
+            mid = (left + right) // 2
+            check = mid * mid
+            
+            if check > x:
+                right = mid - 1
+            elif check < x:
+                left = mid + 1
+            else:
+                # Exact square root found
+                return mid
+                
+        # Return the floor value when exact root isn't found
+        return right
+```
