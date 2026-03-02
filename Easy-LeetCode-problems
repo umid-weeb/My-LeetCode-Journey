@@ -43,3 +43,68 @@ class Solution:
         # Return the floor value when exact root isn't found
         return right
 ```
+
+
+35. Search Insert Position
+Intuition
+
+This problem gives a sorted array and a target number.
+
+If the target exists in the array, we return its index.
+If it does not exist, we return the position where it should be inserted to keep the array sorted.
+
+Because the array is sorted, we can use Binary Search instead of checking every element one by one.
+
+Approach
+
+I used Binary Search to solve this problem.
+
+First, I set:
+
+left = 0
+
+right = len(nums) - 1
+
+Then while left <= right, I calculate:
+
+mid = (left + right) // 2
+
+If nums[mid] == target, I return mid.
+
+If nums[mid] < target, it means the target is on the right side, so I move:
+
+left = mid + 1
+
+If nums[mid] > target, it means the target is on the left side, so I move:
+
+right = mid - 1
+
+If the loop finishes and the target is not found,
+the left pointer will show the correct insert position.
+So I return left.
+
+Complexity
+
+Time complexity:
+O(log n) because we divide the search range into half each time.
+
+Space complexity:
+O(1) because we only use a few variables.
+```
+class Solution:
+    def searchInsert(self, nums: List[int], target: int) -> int:
+        left = 0
+        right = len(nums) - 1
+        
+        while left <= right:
+            mid = (left + right) // 2
+            
+            if nums[mid] == target:
+                return mid
+            elif nums[mid] < target:
+                left = mid + 1
+            else:
+                right = mid - 1
+                
+        return left
+```
