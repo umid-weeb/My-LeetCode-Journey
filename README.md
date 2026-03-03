@@ -9,6 +9,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Binary Search
@@ -35,5 +36,10 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0011-container-with-most-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
