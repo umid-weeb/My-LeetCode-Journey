@@ -1,27 +1,25 @@
 class Solution:
-    def find_middle(self, head):
-        fast = slow = head
+    def isPalindrome(self, head):
+
+        slow = fast = head
+
         while fast and fast.next:
-            fast = fast.next.next
             slow = slow.next
-        return slow
-    def reverse(self, head):
+            fast = fast.next.next
+
         prev = None
-        curr = head
+        curr = slow
+
         while curr:
-            next_ = curr.next
+            nxt = curr.next
             curr.next = prev
             prev = curr
-            curr = next_
-        return prev
-    def isSame(self, h1, h2):
-        while h2:
-            if h1.val != h2.val:
+            curr = nxt
+
+        while prev:
+            if head.val != prev.val:
                 return False
-            h1 = h1.next
-            h2 = h2.next
+            head = head.next
+            prev = prev.next
+
         return True
-    def isPalindrome(self, head):
-        middle = self.find_middle(head)
-        second = self.reverse(middle)
-        return self.isSame(head, second)
