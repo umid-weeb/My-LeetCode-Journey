@@ -9,6 +9,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0035-search-insert-position) |
@@ -59,5 +60,6 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
