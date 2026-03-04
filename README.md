@@ -41,6 +41,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0011-container-with-most-water) |
+| [0141-linked-list-cycle](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Greedy
 |  |
@@ -49,9 +50,14 @@
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0206-reverse-linked-list) |
+## Hash Table
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
