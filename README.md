@@ -15,6 +15,7 @@
 | [0035-search-insert-position](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0888-fair-candy-swap](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0888-fair-candy-swap) |
 ## Binary Search
 |  |
 | ------- |
@@ -22,6 +23,7 @@
 | [0035-search-insert-position](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0888-fair-candy-swap](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0888-fair-candy-swap) |
 ## Tree
 |  |
 | ------- |
@@ -74,6 +76,7 @@
 | [0001-two-sum](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0142-linked-list-cycle-ii) |
+| [0888-fair-candy-swap](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0888-fair-candy-swap) |
 ## Stack
 |  |
 | ------- |
@@ -82,4 +85,8 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0002-add-two-numbers) |
+## Sorting
+|  |
+| ------- |
+| [0888-fair-candy-swap](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0888-fair-candy-swap) |
 <!---LeetCode Topics End-->
