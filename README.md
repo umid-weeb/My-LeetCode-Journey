@@ -17,6 +17,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0217-contains-duplicate) |
+| [0500-keyboard-row](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0500-keyboard-row) |
 | [0888-fair-candy-swap](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0888-fair-candy-swap) |
 ## Binary Search
 |  |
@@ -85,6 +86,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0217-contains-duplicate) |
+| [0500-keyboard-row](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0500-keyboard-row) |
 | [0888-fair-candy-swap](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0888-fair-candy-swap) |
 ## Stack
 |  |
@@ -103,4 +105,8 @@
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+## String
+|  |
+| ------- |
+| [0500-keyboard-row](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0500-keyboard-row) |
 <!---LeetCode Topics End-->
