@@ -13,6 +13,7 @@
 | [0011-container-with-most-water](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0035-search-insert-position) |
+| [0049-group-anagrams](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -81,6 +82,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0142-linked-list-cycle-ii) |
@@ -101,6 +103,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0242-valid-anagram) |
 | [0888-fair-candy-swap](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0888-fair-candy-swap) |
@@ -111,6 +114,7 @@
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0383-ransom-note) |
 | [0500-keyboard-row](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0500-keyboard-row) |
