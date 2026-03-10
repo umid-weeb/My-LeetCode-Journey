@@ -97,6 +97,7 @@
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0071-simplify-path) |
 | [0234-palindrome-linked-list](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0234-palindrome-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/2390-removing-stars-from-a-string) |
 ## Math
@@ -118,6 +119,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0049-group-anagrams) |
+| [0071-simplify-path](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0071-simplify-path) |
 | [0242-valid-anagram](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0383-ransom-note) |
 | [0500-keyboard-row](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0500-keyboard-row) |
