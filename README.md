@@ -33,6 +33,7 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [2236-root-equals-sum-of-children](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/2236-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -46,6 +47,7 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [2236-root-equals-sum-of-children](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/2236-root-equals-sum-of-children) |
 ## Two Pointers
 |  |
 | ------- |
