@@ -19,6 +19,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0217-contains-duplicate) |
 | [0500-keyboard-row](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0500-keyboard-row) |
+| [0739-daily-temperatures](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0739-daily-temperatures) |
 | [0888-fair-candy-swap](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0888-fair-candy-swap) |
 ## Binary Search
 |  |
@@ -99,6 +100,7 @@
 | ------- |
 | [0071-simplify-path](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0071-simplify-path) |
 | [0234-palindrome-linked-list](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0234-palindrome-linked-list) |
+| [0739-daily-temperatures](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0739-daily-temperatures) |
 | [2390-removing-stars-from-a-string](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/2390-removing-stars-from-a-string) |
 ## Math
 |  |
@@ -132,4 +134,8 @@
 |  |
 | ------- |
 | [2390-removing-stars-from-a-string](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/2390-removing-stars-from-a-string) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
