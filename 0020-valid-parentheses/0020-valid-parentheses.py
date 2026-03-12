@@ -8,8 +8,6 @@ class Solution:
             '{':'}'
         }
         stack=[]
-  
-        
         for i in s:
             if i in open_:
                 stack.append(i)
