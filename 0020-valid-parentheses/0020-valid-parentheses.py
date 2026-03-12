@@ -8,8 +8,7 @@ class Solution:
             '{':'}'
         }
         stack=[]
-        if len(s) %2!=0:
-            return False
+  
         
         for i in s:
             if i in open_:
