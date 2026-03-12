@@ -98,6 +98,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0071-simplify-path) |
 | [0234-palindrome-linked-list](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0234-palindrome-linked-list) |
 | [0739-daily-temperatures](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0739-daily-temperatures) |
@@ -120,6 +121,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0071-simplify-path) |
 | [0242-valid-anagram](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0242-valid-anagram) |
