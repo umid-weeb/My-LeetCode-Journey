@@ -21,6 +21,7 @@
 | [0500-keyboard-row](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0500-keyboard-row) |
 | [0739-daily-temperatures](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0739-daily-temperatures) |
 | [0888-fair-candy-swap](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0888-fair-candy-swap) |
+| [1480-running-sum-of-1d-array](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/1480-running-sum-of-1d-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -140,4 +141,8 @@
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0739-daily-temperatures) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
