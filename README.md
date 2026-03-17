@@ -15,6 +15,7 @@
 | [0035-search-insert-position](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0217-contains-duplicate) |
@@ -101,6 +102,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0071-simplify-path) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0234-palindrome-linked-list) |
 | [0739-daily-temperatures](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0739-daily-temperatures) |
 | [2390-removing-stars-from-a-string](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/2390-removing-stars-from-a-string) |
@@ -108,6 +110,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0002-add-two-numbers) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Sorting
 |  |
 | ------- |
