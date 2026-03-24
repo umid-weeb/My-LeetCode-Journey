@@ -1,3 +1,4 @@
+from collections import deque
 # Definition for a binary tree node.
 # class TreeNode:
 #     def __init__(self, val=0, left=None, right=None):
@@ -10,6 +11,14 @@ class Solution:
     def countNodes(self, root: Optional[TreeNode]) -> int:
         if not root:
             return 0
-        if self.is_leaf(root):
-            return 1
-        return self.countNodes(root.left)+self.countNodes(root.right)+1
+        queue =deque([root])
+        count=0
+        while queue:
+            node = queue.pop()
+            count+=1
+            if node.left:
+                queue.appendleft(node.left)
+            if node.right:
+                queue.appendleft(node.right)
+        return count
+        
