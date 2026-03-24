@@ -31,12 +31,14 @@
 | [0035-search-insert-position](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0222-count-complete-tree-nodes](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0222-count-complete-tree-nodes) |
 | [0888-fair-candy-swap](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0888-fair-candy-swap) |
 ## Tree
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0222-count-complete-tree-nodes) |
 | [2236-root-equals-sum-of-children](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/2236-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
@@ -51,6 +53,7 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0222-count-complete-tree-nodes) |
 | [2236-root-equals-sum-of-children](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/2236-root-equals-sum-of-children) |
 ## Two Pointers
 |  |
@@ -155,4 +158,8 @@
 |  |
 | ------- |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
