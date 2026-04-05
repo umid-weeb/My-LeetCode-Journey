@@ -20,6 +20,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0217-contains-duplicate) |
 | [0500-keyboard-row](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0500-keyboard-row) |
+| [0724-find-pivot-index](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0739-daily-temperatures) |
 | [0888-fair-candy-swap](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0888-fair-candy-swap) |
 | [1480-running-sum-of-1d-array](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/1480-running-sum-of-1d-array) |
@@ -161,6 +162,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/1480-running-sum-of-1d-array) |
 ## Queue
 |  |
