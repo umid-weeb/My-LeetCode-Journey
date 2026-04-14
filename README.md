@@ -19,6 +19,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0283-move-zeroes) |
 | [0500-keyboard-row](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0500-keyboard-row) |
 | [0724-find-pivot-index](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0739-daily-temperatures) |
@@ -74,6 +75,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0283-move-zeroes) |
 ## Greedy
 |  |
 | ------- |
