@@ -24,6 +24,7 @@
 | [0724-find-pivot-index](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0739-daily-temperatures) |
 | [0888-fair-candy-swap](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0888-fair-candy-swap) |
+| [0977-squares-of-a-sorted-array](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/1480-running-sum-of-1d-array) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Binary Search
@@ -77,6 +78,7 @@
 | [0234-palindrome-linked-list](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0344-reverse-string) |
+| [0977-squares-of-a-sorted-array](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
 |  |
 | ------- |
@@ -135,6 +137,7 @@
 | [0217-contains-duplicate](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0242-valid-anagram) |
 | [0888-fair-candy-swap](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0888-fair-candy-swap) |
+| [0977-squares-of-a-sorted-array](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0977-squares-of-a-sorted-array) |
 ## Divide and Conquer
 |  |
 | ------- |
