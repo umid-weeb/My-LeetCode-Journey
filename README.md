@@ -25,6 +25,7 @@
 | [0739-daily-temperatures](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0739-daily-temperatures) |
 | [0888-fair-candy-swap](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0888-fair-candy-swap) |
 | [0977-squares-of-a-sorted-array](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0977-squares-of-a-sorted-array) |
+| [0997-find-the-town-judge](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0997-find-the-town-judge) |
 | [1480-running-sum-of-1d-array](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/1480-running-sum-of-1d-array) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Binary Search
@@ -120,6 +121,7 @@
 | [0383-ransom-note](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0383-ransom-note) |
 | [0500-keyboard-row](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0500-keyboard-row) |
 | [0888-fair-candy-swap](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0888-fair-candy-swap) |
+| [0997-find-the-town-judge](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0997-find-the-town-judge) |
 ## Stack
 |  |
 | ------- |
@@ -192,4 +194,5 @@
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0547-number-of-provinces) |
+| [0997-find-the-town-judge](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0997-find-the-town-judge) |
 <!---LeetCode Topics End-->
