@@ -53,12 +53,14 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0226-invert-binary-tree) |
+| [0547-number-of-provinces](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0547-number-of-provinces) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0226-invert-binary-tree) |
+| [0547-number-of-provinces](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0547-number-of-provinces) |
 ## Binary Tree
 |  |
 | ------- |
@@ -182,4 +184,12 @@
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0222-count-complete-tree-nodes) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
