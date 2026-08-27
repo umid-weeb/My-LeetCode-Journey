@@ -4,13 +4,12 @@ class Solution:
         seq_len = len(sequence)
         if not sequence:
             return True
+        sequence_l = list(sequence)
         
         for i in text:
-            if i == sequence[seq_ind]:
-                seq_ind+=1
-                if seq_ind == seq_len:
+            if i == sequence_l[0]:
+                sequence_l.pop(0)
+                if len(sequence_l)==0:
                     return True
-        return False
-            
-        
-        
+        return len(sequence_l)==0
+                
