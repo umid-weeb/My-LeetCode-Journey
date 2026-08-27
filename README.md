@@ -84,6 +84,7 @@
 | [0234-palindrome-linked-list](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0392-is-subsequence) |
 | [0977-squares-of-a-sorted-array](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
 |  |
@@ -158,6 +159,7 @@
 | [0242-valid-anagram](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0383-ransom-note) |
+| [0392-is-subsequence](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0392-is-subsequence) |
 | [0500-keyboard-row](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0500-keyboard-row) |
 | [2390-removing-stars-from-a-string](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/2390-removing-stars-from-a-string) |
 ## Counting
@@ -195,4 +197,8 @@
 | ------- |
 | [0547-number-of-provinces](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0547-number-of-provinces) |
 | [0997-find-the-town-judge](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0997-find-the-town-judge) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
