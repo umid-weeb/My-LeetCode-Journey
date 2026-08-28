@@ -20,6 +20,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0283-move-zeroes) |
+| [0300-longest-increasing-subsequence](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0300-longest-increasing-subsequence) |
 | [0500-keyboard-row](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0500-keyboard-row) |
 | [0724-find-pivot-index](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0739-daily-temperatures) |
@@ -36,6 +37,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0222-count-complete-tree-nodes) |
+| [0300-longest-increasing-subsequence](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0300-longest-increasing-subsequence) |
 | [0888-fair-candy-swap](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0888-fair-candy-swap) |
 ## Tree
 |  |
@@ -200,5 +202,10 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0300-longest-increasing-subsequence) |
 | [0392-is-subsequence](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0392-is-subsequence) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/umid-weeb/My-LeetCode-Journey/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
