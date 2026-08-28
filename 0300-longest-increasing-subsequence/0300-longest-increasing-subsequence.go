@@ -1,8 +1,20 @@
 package main
-import (
-    "fmt"
-    "sort"
-)
+import "fmt"
+
+func binary_search(tails []int, num int) int {
+    low :=0
+    high:= len(tails)
+    for low<high{
+        mid := (low+high)/2
+        if tails[mid]<num{
+            low = mid+1
+        }else{
+            high = mid
+        }
+    }
+    return low
+}
+
 func lengthOfLIS(nums []int) int {
   if len(nums)==0{
     return 0
@@ -17,7 +29,7 @@ func lengthOfLIS(nums []int) int {
   }
 
   for i , num := range nums {
-    idx := sort.SearchInts(tails, num)
+    idx := binary_search(tails, num)
 
     if idx == len(tails){
         tails = append(tails, num)
