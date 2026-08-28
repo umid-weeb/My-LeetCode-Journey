@@ -1,4 +1,20 @@
-import bisect
+
+def binary_search(tails, num):
+    low, high = 0, len(tails)
+    while low<high:
+        mid = (low+high)//2
+        if tails[mid]<num:
+            low = mid +1
+        else:
+            high = mid
+    return low
+
+
+
+
+
+
+
 class Solution:
     def lengthOfLIS(self, nums: List[int]) -> int:
         if not nums:
@@ -8,7 +24,7 @@ class Solution:
         perent = [-1]* len(nums)
 
         for i, num in enumerate(nums):
-            indx = bisect.bisect_left(tails, num)
+            indx = binary_search(tails, num)
 
             if indx == len(tails):
                 tails.append(num)
