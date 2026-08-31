@@ -12,7 +12,7 @@ def binary_search(tails, num):
 
 class Solution:
     def lengthOfLIS(self, nums: List[int]) -> int:
-        temp = list()
+        temp = []
         for num in nums:
             idx = binary_search(temp, num)
             if idx<len(temp):
