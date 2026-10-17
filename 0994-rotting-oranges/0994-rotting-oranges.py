@@ -23,13 +23,8 @@ class Solution:
             for _ in range(len(queue)):
 
                 i, j = queue.popleft()
-                
-                neighbors = [
-                    (i+1,j), (i,j+1),
-                    (i-1,j), (i,j-1),
-                ]
 
-                for ni, nj in neighbors:
+                for ni, nj in [(i+1,j), (i,j+1),(i-1,j), (i,j-1),]:
                     if (0<=ni<n and 0<= nj<m and matrix[ni][nj]==FRESH):
                         matrix[ni][nj] = ROTTON
                         countF -=1
